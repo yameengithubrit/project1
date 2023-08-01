@@ -1,0 +1,83 @@
+.footr{
+    background-color: rgb(211, 141, 11);
+    width: 100%;
+    bottom: 0;
+    color: #fff;
+    padding: 100px 0 30px;
+    border-top-left-radius: 125px;
+    font-size: 13px;
+    line-height: 20px;
+    
+}
+.row{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+
+}
+.col{
+    flex-basis: 80px;
+    margin-bottom: 30px;
+}
+.logo{
+    width: 80px;
+    margin-bottom: 30px;
+}
+.col h3{
+    width: fit-content;
+    border-bottom: 1px solid white;
+    position: relative;
+}
+.email-id{
+    width: fit-content;
+    border-bottom: 1px solid white;
+    margin: 20px 0;
+}
+ul li{
+    list-style: none;
+    margin-bottom: 12px;
+  
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    margin-left: -40px;
+}
+.social-links .ic2{
+    cursor: pointer;
+    height: 2rem;
+    width: 2rem;
+    color: white;
+    display: flex;
+   
+}
+.ic1:hover{
+    color: orange;
+}
+.ic2:hover{
+    color: orange;
+}
+.social-links .ic3{
+    cursor: pointer;
+    height: 2rem;
+    width: 2rem;
+    color: white;
+    display: flex;
+   
+}
+.ic3:hover{
+    color: orange;
+}
+
+.social-links .ic1{
+    cursor: pointer;
+    height: 2rem;
+    width: 2rem;
+    color: white;
+    display: flex;
+   
+}
+
